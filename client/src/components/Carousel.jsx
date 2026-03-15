@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import image1 from '../assets/artworks/WhatsApp Image 2025-12-15 at 23.09.49.jpeg';
-import image2 from '/Users/ritikjangra/Desktop/mernstack/artGallery/client/src/assets/artworks/WhatsApp Image 2025-12-15 at 23.10.52.jpeg'
+import image2 from '../assets/artworks/WhatsApp Image 2025-12-15 at 23.10.52.jpeg';
 const slides = [
     {
         id: 1,
